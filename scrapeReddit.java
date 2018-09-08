@@ -55,5 +55,4 @@ public class scrapeReddit {
 				
 	input.close();																// closing scanner object
 	}
-	
 }

@@ -31,7 +31,6 @@ public class ScrapeNugNet {
 			System.out.print("error");
 		}
 		
-		
 	}
 	
 }

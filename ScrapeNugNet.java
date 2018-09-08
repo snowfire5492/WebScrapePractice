@@ -30,7 +30,6 @@ public class ScrapeNugNet {
 		}catch(Exception e){
 			System.out.print("error");
 		}
-		
 	}
 	
 }

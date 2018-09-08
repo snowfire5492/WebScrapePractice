@@ -52,11 +52,7 @@ public class scrapeReddit {
 			System.out.println();
 		}
 		*/  // test successful
-		
-		
-		
-		
-		
+				
 	input.close();																// closing scanner object
 	}
 	
